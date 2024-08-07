@@ -1,3 +1,12 @@
+# IoTSim-Stream (New Version 2.0 - Edge-enabled IoTSim-Stream)
+Open-source simulation software to model and simulate stream workflow applications in cloud and edge computing environments.
+
+## Unique Features
+  * Support modelling data incentive IoT-based applications using stream processing model (aka stream graph applications).
+  * Support modelling edge computing environment in addition to multicloud enviroment as an execution environment for stream graph application.
+  * Support user-defined resource provisioning and scheduling policies.
+
+
 # IoTSim-Stream (1.0 amd 1.1)
 Open-source simulation software to model and simulate stream workflow applications in cloud computing environments.
 
